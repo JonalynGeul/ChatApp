@@ -1,7 +1,10 @@
 # Jonalyn Geul (BSIT 3-4) chat-app!
 
 Here's what it looks like: 
-![Screenshot (8)](https://user-images.githubusercontent.com/96328041/209651965-8968e001-e08e-4116-9f3f-0f7691ba35ee.png)
+
+![Screenshot (8)](https://user-images.githubusercontent.com/96328041/209652498-aae0f14a-cc1a-4ab2-8dce-8ab1d52f3f7e.png)
+
+
 
 
 
